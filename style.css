@@ -10,3 +10,13 @@ h1{
 .sub{
   font-size: 30px
 }
+nav{
+  position: relative;
+  left: 600px;
+  bottom: 150px;
+}
+nav li{
+  display: inline-block;
+  margin: 0 0 0 30px;
+  border: 3px solid white
+}
